@@ -11,3 +11,5 @@ Gra w Pythonie o charakterze zręcznościowym może być dynamiczną przygodą, 
 3. Piotrek
 4. Staszek
 5. Mikolaj
+
+![Zdjecia do projektu](pictures/M26SOlympics2020_KeyArt_Mario.jpg)
