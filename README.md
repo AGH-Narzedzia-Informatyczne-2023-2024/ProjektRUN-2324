@@ -13,3 +13,5 @@ Gra w Pythonie o charakterze zręcznościowym może być dynamiczną przygodą, 
 5. Mikolaj
 
 ![Zdjecia do projektu](pictures/M26SOlympics2020_KeyArt_Mario.jpg)
+# Podsumowanie:
+Z przyjemnością informujemy, że nad realizacją tego projektu zaangażowani zostaną wyłącznie wysoko wykwalifikowani fachowcy. Ich specjalistyczna wiedza i doświadczenie stanowią solidne fundamenty, które zapewnią, że projekt zostanie wykonany na najwyższym poziomie. Dzięki ich zaangażowaniu oraz profesjonalizmowi możemy być pewni, że rezultat końcowy będzie nie tylko zgodny z oczekiwaniami, ale również przekroczy wszelkie oczekiwania, tworząc projekt o wyjątkowej jakości i innowacyjności. Jesteśmy przekonani, że współpraca z tak kompetentnym zespołem fachowców przyczyni się do sukcesu i satysfakcji z osiągniętych rezultatów.
