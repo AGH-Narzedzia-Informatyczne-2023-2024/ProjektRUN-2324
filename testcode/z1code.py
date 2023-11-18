@@ -1,4 +1,4 @@
-print("CAR GAME. commands: help,start,stop,exit.")
+print("CAR GAME Version1//commands: help,start,stop,exit.")
 print("")
 
 moving=False
