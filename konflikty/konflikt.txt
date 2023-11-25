@@ -1,3 +1,5 @@
 Tutaj
 bedzie Nie_ja_chce_moj
 konflikt
+bedzie Coś innego
+konflikt
