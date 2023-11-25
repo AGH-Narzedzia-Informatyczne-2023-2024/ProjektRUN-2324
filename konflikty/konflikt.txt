@@ -1,7 +1,5 @@
 Plik w ktorym bedzie konflikt.
 1.linijka bezkonfliktowa
-2.Linijka konfliktowa MD_konflikt SW_konflikt 
-3.Mikolaj Dudkiewicz Piotr_Paczek Mateusz Oracz Stanisław Wojtas
 2.Linijka konfliktowa 
 3.
 4.Linijka bezkonfliktowa
