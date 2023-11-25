@@ -1,5 +1,5 @@
 Plik w ktorym bedzie konflikt.
 1.linijka bezkonfliktowa
 2.Linijka konfliktowa 
-3.Mikolaj Bartek 
+3.Mikolaj Dudkiewicz Bartek Woźniczka 
 4.Linijka bezkonfliktowa
