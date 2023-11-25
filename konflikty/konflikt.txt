@@ -1,5 +1,5 @@
 Plik w ktorym bedzie konflikt.
 1.linijka bezkonfliktowa
-2.Linijka konfliktowa PP_KONFLIKT 
-3.Piotr_Paczek Mateusz Oracz
+2.Linijka konfliktowa SW_konflikt 
+3.Stanisław Wojtas
 4.Linijka bezkonfliktowa
