@@ -1,7 +1,5 @@
 Plik w ktorym bedzie konflikt.
 1.linijka bezkonfliktowa
-2.Linijka konfliktowa!!!! (tworzenie konfliktu) 
-3.Stanislaw Wojtas
 2.Linijka konfliktowa 
-
-4.Linijka bezkonfliktowa!!!!
+3.
+4.Linijka bezkonfliktowa
