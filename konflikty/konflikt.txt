@@ -1,5 +1,5 @@
 Plik w ktorym bedzie konflikt.
 1.linijka bezkonfliktowa
 2.Linijka konfliktowa 
-3. Mateusz Oracz
+3.Mikolaj Dudkiewicz Bartek Woźniczka Stanisław Wojtas Piotr_Paczek Mateusz Oracz
 4.Linijka bezkonfliktowa
